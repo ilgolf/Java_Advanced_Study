@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------
 
-## 1주차 : Stream이란? 
+## 1주차 : Stream과 Optional
 
 1. Stream에 존재하는 다양한 메서드
 
@@ -18,9 +18,7 @@
 4. Null - safe 스트림 생성하기
 5. 줄여 쓰기
 
-## 2주차 : Optional 이란?
-
-## 3주차 : Wrapper Class와 일급 컬렉션
+## 2주차 : Wrapper Class와 일급 컬렉션
 
 1. 일급 컬렉션이란 ?
 
@@ -33,9 +31,9 @@
    
 3. 일급 컬렉션의 단점
 
-## 4주차 : Generic type Erasure
+## 3주차 : Generic type Erasure, Enum 클래스
 
-## 5주차 : 자바 리플렉션
+## 4주차 : 자바 리플렉션
 
 1. 리플렉션이란 ?
 2. Class 찾기
@@ -44,25 +42,22 @@
 5. Field(변수) 변경
 6. 외에 나머지 로직들 
 
-## 6주차 : Enum 클래스
+## 5주차 : syncronized vs acynchronize / blocking vs non blocking 차이점
 
-## 7주차 : syncronized vs acynchronize / blocking vs non blocking 차이점
-
-## 8주차 : 자바 동시성 문제가 발생
+## 6주차 : 자바 동시성 문제가 발생
 
 1. Syncronized 키워드
-2. ConcurrentHashMap
+2. Concurrency 라이브러리
 3. Atomic
 4. volatile
 
-## 9주차 : 직렬화 역직렬화
+## 7주차 : 직렬화 역직렬화 와 String 상수 풀
 
 1. Serializable
 2. 날짜 형식 직렬화 전략
+3. String = "" vs String = new String("")의 차이
 
-## 10주차 : String 상수풀
-
-## 11주차 : Completable Future
+## 8주차 : Completable Future
 
 1. Completable Future란?
 2. 각종 메서드
