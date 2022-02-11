@@ -75,8 +75,8 @@
 --------------------------------------------------------------------------------------
 
 
-[1주차 - Stream 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/1)
+[1주차 - Stream/Optional 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/1)
 
 
 
-[2주차 - Stream 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/3)
+[2주차 - Wrapper/일급컬렉션 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/3)
