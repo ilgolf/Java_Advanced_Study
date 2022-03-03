@@ -44,6 +44,11 @@
 
 ## 5주차 : syncronized vs acynchronize / blocking vs non blocking 차이점
 
+1. 모니터란 ?
+2. Lock 클래스란?
+3. 차이점이란? 2 by 2
+4. 다른 언어 에서의 사례
+
 ## 6주차 : 자바 동시성 문제가 발생
 
 1. Syncronized 키워드
@@ -76,6 +81,8 @@
 [3주차 - Generic/Enum 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/4)
 
 [4주차 - Reflection 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/5)
+
+[5주차 - syncronized vs acynchronize / blocking vs non blocking 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/6)
 
 --------------------------------------------------------------------------------------
 
