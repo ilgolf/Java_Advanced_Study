@@ -86,6 +86,8 @@
 
 [6주차 - 자바 동시성 프로그래밍](https://github.com/ilgolf/Java_Advanced_Study/issues/7)
 
+[7주차 - 직렬화 역직렬화와 String 상수 풀](https://github.com/ilgolf/Java_Advanced_Study/issues/8)
+
 --------------------------------------------------------------------------------------
 
 매주마다 한 명씩 발표, 질문은 3개 이상 꼭 예제를 만들어 직접 작성해가며 공부하시길 바랍니다.
