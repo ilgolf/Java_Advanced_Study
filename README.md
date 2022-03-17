@@ -84,6 +84,8 @@
 
 [5주차 - syncronized vs acynchronize / blocking vs non blocking 과제 제출](https://github.com/ilgolf/Java_Advanced_Study/issues/6)
 
+[6주차 - 자바 동시성 프로그래밍](https://github.com/ilgolf/Java_Advanced_Study/issues/7)
+
 --------------------------------------------------------------------------------------
 
 매주마다 한 명씩 발표, 질문은 3개 이상 꼭 예제를 만들어 직접 작성해가며 공부하시길 바랍니다.
